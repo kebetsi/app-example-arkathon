@@ -12,6 +12,7 @@ Run `npm install` to fetch the dependencies
 - [API concepts](https://api.pryv.com/concepts/)
 - [Getting Started JavaScript](https://api.pryv.com/getting-started/javascript/)
 - [API reference](https://api.pryv.com/reference)
+- [Generate App Token](https://pryv.github.io/app-web-access/?pryv-reg=reg.pryv.me)
 
 ## Login
 
