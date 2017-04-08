@@ -1,0 +1,36 @@
+{
+  "name": "homepod",
+  "version": "1.0.0",
+  "description": "arkathon coding gists",
+  "main": "src/websockets.js",
+  "scripts": {
+    "login": "node node_modules/.bin/browserify src/js/login.js -o dist/login.js",
+    "dist": "node_modules/.bin/grunt dist",
+    "grunt": "node_modules/.bin/grunt"
+  },
+  "author": "homepod",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.3.0",
+    "bootstrap": "^3.3.7",
+    "grunt": "^1.0.1",
+    "pryv": "^1.0.0"
+  },
+  "devDependencies": {
+    "browserify": "^14.3.0",
+    "grunt-cli": "^1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kebetsi/app-arkathon-homepod.git"
+  },
+  "keywords": [
+    "foot",
+    "diabetes",
+    "photos"
+  ],
+  "bugs": {
+    "url": "https://github.com/kebetsi/app-arkathon-homepod/issues"
+  },
+  "homepage": "https://github.com/kebetsi/app-arkathon-homepod#readme"
+}
