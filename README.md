@@ -16,6 +16,10 @@ Run `npm install` to fetch the dependencies
 - [Dashboard signIn](https://sw.pryv.me/access/signinhub.html)
 - [Simple raw app](https://kerma2.github.io/pryv-example-app/?pryv-domain=pryv.me)
 
+## Pryv platform
+
+![middleware](https://pryv.com/wp-content/uploads/2016/01/Screenshot-2016-04-03-21.27.33-1024x581.png)
+
 ## Patient account creation
 
 We haven't made available the user creation on Pryv, you may do this manually on the following page:
