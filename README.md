@@ -16,6 +16,9 @@ Run `npm install` to fetch the dependencies
 
 ## Login
 
+- [src/www/login.html](https://github.com/kebetsi/app-example-arkathon/blob/master/src/www/login.html)
+- [src/js/login.js](https://github.com/kebetsi/app-example-arkathon/blob/master/src/js/login.js)
+
 Simple login used to obtain an app token, with which you will be able to create the data structure ([Streams](http://api.pryv.com/getting-started/javascript/#manage-streams)) and data
 points ([Events](http://api.pryv.com/getting-started/javascript/#manage-events)), as well as [Access](http://api.pryv.com/getting-started/javascript/#manage-accesses) tokens for care takers, family, insurers and other eHeahlth stakeholders.
 
