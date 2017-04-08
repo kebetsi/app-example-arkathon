@@ -18,7 +18,7 @@ var requestedPermissions = [
 var connection;
 
 var settings = {
-  requestingAppId: 'homepod',
+  requestingAppId: 'my-app-id',
   requestedPermissions: requestedPermissions,
   spanButtonID: 'pryv-button',
   callbacks: {
