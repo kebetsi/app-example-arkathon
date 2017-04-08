@@ -41,12 +41,18 @@ Open `www/login.html` to display a simple web page containing the login button
 
 ## Structure creation
 
-To generate the structure for you Pryv data, you may use the code in `src/js/createStructure.js` to create it in a single [batch call](http://api.pryv.com/reference/#call-batch).
+To generate the structure for you Pryv data, you may use the code in [src/js/createStructure.js](https://github.com/kebetsi/app-example-arkathon/blob/master/src/js/createStructure.js) to create it in a single [batch call](http://api.pryv.com/reference/#call-batch).
 
 ## Events creation
 
-Simple example to create an event in `src/js/createEvent.js`
+Simple example to create an event in [src/js/createEvent.js](https://github.com/kebetsi/app-example-arkathon/blob/master/src/js/createEvents.js)
+
+## Events fetching
+
+Simple example to fetch events in [src/js/getEvents.js](https://github.com/kebetsi/app-example-arkathon/blob/master/src/js/getEvents.js)
 
 ## Access creation
 
-Simple example to create an access in `src/js/createAccess.js`
+Simple example to create an access in [src/js/createAccess.js](https://github.com/kebetsi/app-example-arkathon/blob/master/src/js/createAccess.js)
+
+
