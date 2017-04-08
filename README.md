@@ -1,5 +1,5 @@
-# app-arkathon-homepod
-helper gists for homepod
+# app-arkathon-example
+helper gists for Pryv users
 
 ## Prerequisites
 
